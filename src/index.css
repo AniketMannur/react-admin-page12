@@ -1,0 +1,15 @@
+:root{
+  --bg:#204049;
+  --nav:#062b49;
+  --card:#bcf1e4;
+  --muted:#dd4213;
+  --accent:#2b6cb0;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family: 'Times New Roman', Times, serif, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background:var(--bg);
+  color:#0f1724;
+}
+a{color:inherit}
